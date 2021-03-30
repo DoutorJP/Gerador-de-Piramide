@@ -2,11 +2,7 @@
 Esse é um projeto de um gerador de piramide que eu criei, inteiramente em C++, que roda em um terminal.
 é possivel criar piramides largas e finas, do tamanho que quiser!
 
-`*
-* *` 
-`* * * 
-* * * *`
- 
+
 # Como iniciar
 ## No  Linux
 Basta compilar o arquivo, exemplo:
