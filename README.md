@@ -4,12 +4,12 @@ Esse é um projeto de um gerador de piramide que eu criei, inteiramente em C++, 
 
 # Como iniciar
 ## No  Linux
-basta compilar o arquivo, exemplo:
+Basta compilar o arquivo, exemplo:
 em um terminal, rode: `g++ Pir.cpp`
 ele deverá compilar sem erros, depois, basta executar o arquivo de saida; ex: `./a.out`.
 
 ## No Windows
-para utilizar no windows deverá ser usada uma ide de sua preferencia, como atom ou vscode
+Para utilizar no windows deverá ser usada uma ide de sua preferencia, como atom ou vscode
 
 # Usando
 O programa lhe informará que para sair, necessita que aperte-se `Ctrl + C`.
