@@ -3,10 +3,15 @@ Esse é um projeto de um gerador de piramide que eu criei, inteiramente em C++, 
 é possivel criar piramides largas e finas, do tamanho que quiser!
 
 `*` 
+
 `* * `
+
 `* * *` 
+
 `* * * *` 
+
 `* * * * *` 
+
 `* * * * * * `
 
 
