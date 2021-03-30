@@ -10,3 +10,6 @@ o programa deverá rodar normalmente
 ## Usando
 O programa lhe informará que para sair, necessita que aperte-se `Ctrl + C`.
 ele irá te perguntar o numero de camadas da piramide, digite o numero desejado, em seguida digite se a piramide será larga ou fina, digite `L` para ter uma piramide larga, e `f` para uma piramide fina, não se esqueça de que para uma piramide larga, o *L* deve ser **maiusculo**
+
+
+### ***este software usa a licença GNU de software livre*** 
