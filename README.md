@@ -4,12 +4,13 @@ Esse é um projeto de um gerador de piramide que eu criei, inteiramente em C++, 
 
 # Como iniciar
 
-o arquivo já está compilado, em um **terminal**, rode: `./Piramide.out`
-o programa deverá rodar normalmente
+basta compilar o arquivo, exemplo:
+em um terminal, rode: `g++ Pir.cpp`
+ele deverá compilar sem erros, depois, basta executar o arquivo de saida; ex: `./a.out`.
 
 ## Usando
 O programa lhe informará que para sair, necessita que aperte-se `Ctrl + C`.
-ele irá te perguntar o numero de camadas da piramide, digite o numero desejado, em seguida digite se a piramide será larga ou fina, digite `L` para ter uma piramide larga, e `f` para uma piramide fina, não se esqueça de que para uma piramide larga, o *L* deve ser **maiusculo**
+ele irá te perguntar o numero de camadas da piramide, digite o numero desejado, em seguida digite se a piramide será Fina ou **Fina** ou **Grossa**, digite `F` para ter uma piramide fina, e `g` para uma piramide grossa, não se esqueça de que para uma piramide fina, o *F* deve ser **maiusculo**
 
 
 ### ***este software usa a licença GNU de software livre*** 
