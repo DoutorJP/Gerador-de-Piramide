@@ -13,3 +13,5 @@ ele irá te perguntar o numero de camadas da piramide, digite o numero desejado,
 
 
 ### ***este software usa a licença GNU de software livre*** 
+Criado por João Pedro de Moura Vasconcelos
+contato: jpmv14@gmail.com
